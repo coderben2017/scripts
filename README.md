@@ -1,5 +1,5 @@
 # scripts
-各类脚本，用于提升工作和生活体验
+自研脚本，用于提升工作和生活体验
 
 ### Tampermonkey油猴
 1. [知乎去广告、视频](./remove-ads-zhihu.js)
